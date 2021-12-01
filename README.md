@@ -1,10 +1,10 @@
 # Rebase Workshop
 
-change1
+change1  again
 
 change-two
 
-3rd change 
+3rd change
 
 CONTENTS OF THIS FILE
 ---------------------
